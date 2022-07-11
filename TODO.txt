@@ -1,0 +1,6 @@
+1. Spawn no free place fix
+2. Check if win/lose
+3. Optimization
+4. Add more colors font/background
+5. Menu on the up side and score
+6. Animation
